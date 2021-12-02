@@ -98,122 +98,16 @@ p{
 	margin-bottom:2%;
 }
 
-#buybook{
-	float:left;
-	margin-left:45%;
-	margin-right: 2%;
-	margin-top:2%;
-}
-
-#watch_speakers{
-	float:left;
-	margin-right: 2%;
-	margin-top:2%;
-}
-
-#share_story{
-	float:left;
-	margin-right: 2%;
-	margin-top:2%;
-}
-
-#book_image{
-	clear:left;
-	padding-left:30%;
-}
-
-#book_buy_button{
-	clear:left;
-	padding-left:47%;
-	padding-right:47%;
-	width:100px;
-}
-
 #copy{
 	clear:left;
 	float:left;
 	max-width:50%;
 }
 
-#speakers_imgs{
-	clear:left;
-	padding-right:5%;
-	padding-top:3%;
-	margin-left:2%;
-	float:left;
-}
-
-#speakers_text{
-	float:left;
-	width:60%;
-	padding-top:1%;
-}
-
-#share_story_photos{
-	clear:left;
-	float:left;
-}
-
-
-#photo1{
-	clear:left;
-	float:left;
-	margin-right:2%;
-}
-
-#photo2{
-	float:left;
-	margin-right: 2%;
-}
-
-#photo3{
-	float:left;
-	margin-right: 2%;
-}
-
-#photo4{
-	clear:left;
-	float:left;
-	margin-right:2%;
-}
-
-#photo5{
-	float:left;
-	margin-right: 2%;
-}
-
-#photo6{
-	float:left;
-	margin-right: 2%;
-}
-
-#photo7{
-	clear:left;
-	float:left;
-	margin-right:2%;
-}
-
-#photo8{
-	float:left;
-	margin-right: 2%;
-}
-
-#upload_photo{
-	clear:left;
-	float:left;
-	margin-left:1%;
-}
-
 #text_boxes{
 	float:left;
 	margin-left:2%;
 
-}
-
-#buy_book_info{
-	float:left;
-	margin-left:3%;
-	font-size:24px;
 }
 
 #submit_button{
